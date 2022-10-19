@@ -1,0 +1,373 @@
+[
+ {
+  "id": 1,
+  "church_v": "CENTRE KODESH",
+  "church_type": 1,
+  "locate": 1,
+  "state": 1
+ },
+ {
+  "id": 2,
+  "church_v": "CENTRE YOTSAR",
+  "church_type": 1,
+  "locate": 1,
+  "state": 1
+ },
+ {
+  "id": 3,
+  "church_v": "CENTRE DE LA FOI",
+  "church_type": 1,
+  "locate": 1,
+  "state": 1
+ },
+ {
+  "id": 4,
+  "church_v": "ASSEMBLEE CHARISMA",
+  "church_type": 1,
+  "locate": 1,
+  "state": 1
+ },
+ {
+  "id": 5,
+  "church_v": "CENTRE DES CONQUERANTS",
+  "church_type": 1,
+  "locate": 1,
+  "state": 1
+ },
+ {
+  "id": 6,
+  "church_v": "CENTRE EAU VIVE \t",
+  "church_type": 1,
+  "locate": 1,
+  "state": 1
+ },
+ {
+  "id": 7,
+  "church_v": "ASSEMBLEE DOXA\t",
+  "church_type": 1,
+  "locate": 1,
+  "state": 1
+ },
+ {
+  "id": 8,
+  "church_v": "ASSEMBLEE EDEN \t",
+  "church_type": 1,
+  "locate": 1,
+  "state": 1
+ },
+ {
+  "id": 9,
+  "church_v": "ASSEMBLEE DES PRODIGES",
+  "church_type": 1,
+  "locate": 1,
+  "state": 1
+ },
+ {
+  "id": 10,
+  "church_v": "CENTRE DE LA GRACE",
+  "church_type": 1,
+  "locate": 1,
+  "state": 1
+ },
+ {
+  "id": 11,
+  "church_v": "ASSEMBLEE KABOD",
+  "church_type": 1,
+  "locate": 1,
+  "state": 1
+ },
+ {
+  "id": 12,
+  "church_v": "ASSEMBLEE DE BASSAM ",
+  "church_type": 1,
+  "locate": 1,
+  "state": 1
+ },
+ {
+  "id": 13,
+  "church_v": "ASSEMBLEE INFLUENCE",
+  "church_type": 1,
+  "locate": 1,
+  "state": 1
+ },
+ {
+  "id": 14,
+  "church_v": "BONOUA",
+  "church_type": 2,
+  "locate": 1,
+  "state": 1
+ },
+ {
+  "id": 15,
+  "church_v": "BOUAKE ",
+  "church_type": 2,
+  "locate": 1,
+  "state": 1
+ },
+ {
+  "id": 16,
+  "church_v": "SEREGUHIE",
+  "church_type": 2,
+  "locate": 1,
+  "state": 1
+ },
+ {
+  "id": 17,
+  "church_v": "DIMBOKRO",
+  "church_type": 2,
+  "locate": 1,
+  "state": 1
+ },
+ {
+  "id": 18,
+  "church_v": "PLATEAU",
+  "church_type": 2,
+  "locate": 1,
+  "state": 1
+ },
+ {
+  "id": 19,
+  "church_v": "PALMERAIE",
+  "church_type": 2,
+  "locate": 1,
+  "state": 1
+ },
+ {
+  "id": 20,
+  "church_v": "COCODY",
+  "church_type": 2,
+  "locate": 1,
+  "state": 1
+ },
+ {
+  "id": 21,
+  "church_v": "DALOA",
+  "church_type": 2,
+  "locate": 1,
+  "state": 1
+ },
+ {
+  "id": 22,
+  "church_v": "BINGERVILLE  / CARRIERE\t",
+  "church_type": 2,
+  "locate": 1,
+  "state": 1
+ },
+ {
+  "id": 23,
+  "church_v": "ABENGOUROU",
+  "church_type": 3,
+  "locate": 1,
+  "state": 1
+ },
+ {
+  "id": 24,
+  "church_v": "ADZOPE / ANDE",
+  "church_type": 3,
+  "locate": 1,
+  "state": 1
+ },
+ {
+  "id": 25,
+  "church_v": "AGNIBILEKRO",
+  "church_type": 3,
+  "locate": 1,
+  "state": 1
+ },
+ {
+  "id": 26,
+  "church_v": "ALEPE",
+  "church_type": 3,
+  "locate": 1,
+  "state": 1
+ },
+ {
+  "id": 27,
+  "church_v": "ANYAMA",
+  "church_type": 3,
+  "locate": 1,
+  "state": 1
+ },
+ {
+  "id": 28,
+  "church_v": "BONDOUKOU",
+  "church_type": 3,
+  "locate": 1,
+  "state": 1
+ },
+ {
+  "id": 29,
+  "church_v": "GAGNOA ",
+  "church_type": 3,
+  "locate": 1,
+  "state": 1
+ },
+ {
+  "id": 30,
+  "church_v": "KATIOLA ",
+  "church_type": 3,
+  "locate": 1,
+  "state": 1
+ },
+ {
+  "id": 31,
+  "church_v": "KORHOGO",
+  "church_type": 3,
+  "locate": 1,
+  "state": 1
+ },
+ {
+  "id": 32,
+  "church_v": "LAKOTA",
+  "church_type": 3,
+  "locate": 1,
+  "state": 1
+ },
+ {
+  "id": 33,
+  "church_v": "MAN",
+  "church_type": 3,
+  "locate": 1,
+  "state": 1
+ },
+ {
+  "id": 34,
+  "church_v": "OUME",
+  "church_type": 3,
+  "locate": 1,
+  "state": 1
+ },
+ {
+  "id": 35,
+  "church_v": "SOUBRE",
+  "church_type": 3,
+  "locate": 1,
+  "state": 1
+ },
+ {
+  "id": 36,
+  "church_v": "TIEBISSOU",
+  "church_type": 3,
+  "locate": 1,
+  "state": 1
+ },
+ {
+  "id": 37,
+  "church_v": "DABOU",
+  "church_type": 3,
+  "locate": 1,
+  "state": 1
+ },
+ {
+  "id": 38,
+  "church_v": "GRAND-LAHOU",
+  "church_type": 3,
+  "locate": 1,
+  "state": 1
+ },
+ {
+  "id": 39,
+  "church_v": "DUEKOUE",
+  "church_type": 3,
+  "locate": 1,
+  "state": 1
+ },
+ {
+  "id": 40,
+  "church_v": "ANGRE-CHATEAU",
+  "church_type": 4,
+  "locate": 1,
+  "state": 1
+ },
+ {
+  "id": 41,
+  "church_v": "RIVIERA III",
+  "church_type": 4,
+  "locate": 1,
+  "state": 1
+ },
+ {
+  "id": 42,
+  "church_v": "CENTRE HESED",
+  "church_type": 1,
+  "locate": 2,
+  "state": 1
+ },
+ {
+  "id": 43,
+  "church_v": "EXPRESSION D'AMOUR",
+  "church_type": 1,
+  "locate": 2,
+  "state": 1
+ },
+ {
+  "id": 44,
+  "church_v": "GENEVE",
+  "church_type": 2,
+  "locate": 2,
+  "state": 1
+ },
+ {
+  "id": 45,
+  "church_v": "LONGUEUIL",
+  "church_type": 2,
+  "locate": 2,
+  "state": 1
+ },
+ {
+  "id": 46,
+  "church_v": "DAKAR",
+  "church_type": 2,
+  "locate": 2,
+  "state": 1
+ },
+ {
+  "id": 47,
+  "church_v": "GATINO",
+  "church_type": 2,
+  "locate": 2,
+  "state": 1
+ },
+ {
+  "id": 48,
+  "church_v": "MAROC",
+  "church_type": 2,
+  "locate": 2,
+  "state": 1
+ },
+ {
+  "id": 49,
+  "church_v": "WASHINGTON",
+  "church_type": 3,
+  "locate": 2,
+  "state": 1
+ },
+ {
+  "id": 50,
+  "church_v": "GUINEE",
+  "church_type": 3,
+  "locate": 2,
+  "state": 1
+ },
+ {
+  "id": 51,
+  "church_v": "LUXEMBOURG",
+  "church_type": 3,
+  "locate": 2,
+  "state": 1
+ },
+ {
+  "id": 52,
+  "church_v": "VASES D'HONNEUR EN LIGNE",
+  "church_type": 1,
+  "locate": 1,
+  "state": 1
+ },
+ {
+  "id": 5000,
+  "church_v": "AUTRES",
+  "church_type": 2,
+  "locate": 1,
+  "state": 1
+ }
+]
